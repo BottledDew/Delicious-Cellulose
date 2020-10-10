@@ -4,7 +4,8 @@ Delicious Cellulose (or DelishCellu) is an early game food alternative mod. Insp
 
 ## Roadmap
 
-Upcoming: adds durability to rasp tool. Future: More foods, tools. Critters that were used for food (rats, bugs, etc)
+Upcoming: adds durability to rasp tool, item descriptions.
+Future: More foods, tools. Critters that were used for food (rats, bugs, etc)
 
 
 
