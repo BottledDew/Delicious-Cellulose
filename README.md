@@ -1,9 +1,14 @@
-# Fabric Example Mod
+# Delicious Cellulose for Minecraft 1.16
 
-## Setup
+Delicious Cellulose (or DelishCellu) is an early game food alternative mod. Inspiration for this mod comes from the Great Depression and other famine eras.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Roadmap
+
+Upcoming: adds durability to rasp tool
+Future: More foods, tools. Critters that were used for food (rats, bugs, etc)
+
+
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Delicious Celluose is licensed under the MIT License, please see LICENSE.md for the full license.
