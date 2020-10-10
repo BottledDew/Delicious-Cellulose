@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "delishcellu",
+  "version": "${version}",
+
+  "name": "Delicious Cellulose",
+  "description": "'Food Fillers'!",
+  "authors": [
+    "BottledDew"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "data/delishcellu/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.bottleddew.deliciouscellulose.DeliciousCellulose"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

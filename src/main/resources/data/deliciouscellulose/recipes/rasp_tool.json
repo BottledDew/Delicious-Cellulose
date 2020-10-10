@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    " i ",
+    "  /"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:flint"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "delishcellu:rasp_tool",
+    "count": 1
+  }
+}

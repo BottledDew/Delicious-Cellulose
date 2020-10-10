@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:beef",
+    "minecraft:chicken",
+    "minecraft:mutton",
+    "minecraft:porkchop",
+    "minecraft:rabbit",
+    "minecraft:rotten_flesh",
+    "delishcellu:mystery_meat"
+  ]
+}

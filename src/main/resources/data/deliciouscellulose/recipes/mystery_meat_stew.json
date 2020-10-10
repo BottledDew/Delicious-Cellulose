@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "delishcellu:mystery_meat"
+    },
+    {
+      "tag": "deliciouscellulose:vanilla_veggies"
+    },
+    {
+      "item": "delishcellu:tree_flour"
+    }
+  ],
+  
+  "result": {
+    "item": "delishcellu:mystery_meat_stew",
+    "count": 1
+  }
+}

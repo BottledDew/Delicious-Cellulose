@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "delishcellu:tree_flour"
+    }
+  ],
+
+  "result": {
+    "item": "delishcellu:bread_substitute",
+    "count": 2
+  }
+}

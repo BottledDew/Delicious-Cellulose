@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "deliciouscellulose:vanilla_raw_proteins"
+    },
+    {
+      "item": "delishcellu:tree_flour"
+    }
+  ],
+
+  "result": {
+    "item": "delishcellu:mystery_meat",
+    "count": 3
+  }
+}
